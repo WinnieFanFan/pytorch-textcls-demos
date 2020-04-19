@@ -8,7 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.ipynb_checkpoints/
 .idea/
+scripts/
+data/
 build/
 develop-eggs/
 dist/
